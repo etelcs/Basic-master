@@ -1,0 +1,4 @@
+name: Basic
+authors: [Etel]
+version: '${project.version}'
+main: me.etel.basic.Basic
